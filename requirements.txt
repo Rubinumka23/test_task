@@ -1,0 +1,7 @@
+instagrapi==1.16.27
+psycopg2==2.9.3
+fastapi==0.79.0
+pydantic==1.9.1
+pillow==8.1.1
+sqlalchemy==1.4.40
+python-dotenv
